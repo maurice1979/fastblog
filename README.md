@@ -6,10 +6,10 @@
 
 https://maurice1979.github.io/fastblog/
 
-# My Blog
+# Welcome to my Blog!
 
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
+_This _blog _is _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
 ## What To Do Next?
