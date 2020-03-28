@@ -9,7 +9,7 @@ https://maurice1979.github.io/fastblog/
 # Welcome to my Blog!
 
 
-_This _blog _is _powered by [fastpages](https://github.com/fastai/fastpages)_
+This repository contains entries to my blog, and is _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
 ## About this blog
