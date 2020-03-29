@@ -1,14 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://maurice1979.github.io/fastblog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maurice1979.github.io/fastblog/" rel="alternate" type="text/html" /><updated>2020-03-28T13:39:08-05:00</updated><id>https://maurice1979.github.io/fastblog/feed.xml</id><title type="html">fastpages</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">Energy Sector Links</title><link href="https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post.html" rel="alternate" type="text/html" title="Energy Sector Links" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post</id><content type="html" xml:base="https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post.html">&lt;h1 id=&quot;renewable-energy&quot;&gt;Renewable Energy&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://maurice1979.github.io/fastblog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maurice1979.github.io/fastblog/" rel="alternate" type="text/html" /><updated>2020-03-29T05:21:21-05:00</updated><id>https://maurice1979.github.io/fastblog/feed.xml</id><title type="html">fastpages</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">Energy Related Data Sources</title><link href="https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post.html" rel="alternate" type="text/html" title="Energy Related Data Sources" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post</id><content type="html" xml:base="https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post.html">&lt;h1 id=&quot;energy-data-sources&quot;&gt;Energy Data Sources&lt;/h1&gt;
 
 &lt;p&gt;In this entry information related with Energy Markets, Flows, etc is gathered.&lt;/p&gt;
 
 &lt;h2 id=&quot;tsos-and-electrical-markets&quot;&gt;TSO’s and Electrical Markets&lt;/h2&gt;
 
+&lt;h3 id=&quot;red-electrica-de-españa-ree&quot;&gt;&lt;a href=&quot;https://www.ree.es/en&quot;&gt;Red Electrica de España (REE)&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;They have a &lt;a href=&quot;https://www.ree.es/es/apidatos#&quot;&gt;powerful API&lt;/a&gt; wich can be used to retrieve a lot of information about Spanish electricity system operation and transport.&lt;/p&gt;
+
+&lt;p&gt;###&lt;a href=&quot;https://www.entsoe.eu&quot;&gt;ENTSO-E&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ENTSO-E, the European Network of Transmission System Operators for Electricity, represents 42 electricity transmission system operators (TSOs) from 35 countries across Europe. ENTSO-E was established and given legal mandates by the EU’s Third Legislative Package for the Internal Energy Market in 2009, which aims at further liberalising the gas and electricity markets in the EU.&lt;/p&gt;
+
+&lt;p&gt;The role of Transmission System Operators has considerably evolved with the Third Energy Package. Due to unbundling and the liberalisation of the energy market TSOs have become the meeting place for the various players to interact on the market place.&lt;/p&gt;
+
+&lt;h1 id=&quot;renewable-energy-data&quot;&gt;Renewable Energy Data&lt;/h1&gt;
+
+&lt;h2 id=&quot;pv-data&quot;&gt;PV Data&lt;/h2&gt;
+
+&lt;h3 id=&quot;--pvoutput-httpspvoutputorg&quot;&gt;- PVOutput (&lt;a href=&quot;https://pvoutput.org/&quot;&gt;https://pvoutput.org/&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;Historical solar photovoltaic data. The aim is to provide both a Python library for interacting with &lt;a href=&quot;https://pvoutput.org/help.html#api&quot;&gt;PVOutput.org’s API&lt;/a&gt;, and a set of scripts for downloading lots of data.&lt;/p&gt;
+
+&lt;h1 id=&quot;weather-data-sources&quot;&gt;Weather Data Sources&lt;/h1&gt;
+
+&lt;h2 id=&quot;--noaas-gfs&quot;&gt;- NOAA’s GFS&lt;/h2&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ree.es/en&quot;&gt;REE Red Electrica de España&lt;/a&gt;: They have a very interesting API wich can be used to retrieve a lot of information about Spanish elecrticity system operation and transport: &lt;a href=&quot;https://www.ree.es/es/apidatos#&quot;&gt;REE API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://s3.console.aws.amazon.com/s3/buckets/noaa-gfs-bdp-pds/?region=us-east-1&amp;amp;tab=overview&quot;&gt;S3 bucket&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nomads.ncep.noaa.gov/&quot;&gt;Nomads Server&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.entsoe.eu&quot;&gt;ENTSOE&lt;/a&gt;:&lt;/p&gt;</content><author><name></name></author><summary type="html">Renewable Energy</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://maurice1979.github.io/fastblog/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://maurice1979.github.io/fastblog/jupyter/2020/02/20/test</id><content type="html" xml:base="https://maurice1979.github.io/fastblog/jupyter/2020/02/20/test.html">&lt;!--
+&lt;h2 id=&quot;--metoffice&quot;&gt;- MetOffice&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://registry.opendata.aws/uk-met-office/&quot;&gt;S3 bucket (24h delay)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;--meteo-france&quot;&gt;- Meteo France&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mf-models-on-aws.org/&quot;&gt;Météo-France models on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;--era-5-reanalysis-data&quot;&gt;- Era 5 (Reanalysis data)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form&quot;&gt;ERA5 API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;electric-consumption-data&quot;&gt;Electric Consumption data&lt;/h1&gt;
+
+&lt;h2 id=&quot;--uk-domestic-appliance-level-electricity-uk-dale-dataset&quot;&gt;- UK Domestic Appliance-Level Electricity (UK-DALE) dataset&lt;/h2&gt;
+
+&lt;p&gt;This &lt;a href=&quot;https://jack-kelly.com/data/&quot;&gt;dataset&lt;/a&gt; records the power demand from five houses. In each house we record both the whole-house mains power demand every six seconds as well as power demand from individual appliances every six seconds. In three of the five houses (houses 1, 2 and 5) we also record the whole-house voltage and current at 16 kHz.&lt;/p&gt;
+
+&lt;h1 id=&quot;repositories&quot;&gt;Repositories&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/openclimatefix&quot;&gt;Open Climate Fix&lt;/a&gt;: Mostly developed by Jack Kelly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;packages&quot;&gt;Packages&lt;/h1&gt;
+
+&lt;h2 id=&quot;python&quot;&gt;Python&lt;/h2&gt;
+
+&lt;h3 id=&quot;pvlib-python&quot;&gt;&lt;a href=&quot;https://pvlib-python.readthedocs.io/en/stable/&quot;&gt;PVlib (Python)&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;PVlib (Python)&lt;/a&gt; is a library developed by Sandia Laboratories designed for simulating the performance of photovoltaic energy systems.&lt;/p&gt;</content><author><name></name></author><summary type="html">Energy Data Sources</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://maurice1979.github.io/fastblog/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://maurice1979.github.io/fastblog/jupyter/2020/02/20/test</id><content type="html" xml:base="https://maurice1979.github.io/fastblog/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
