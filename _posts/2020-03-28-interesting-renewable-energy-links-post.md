@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Links to Renewable Energy related web pages.
-categories: [markdown]
+categories: [markdown, energy]
 title: Energy Related Data Sources
 ---
 
