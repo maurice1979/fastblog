@@ -60,7 +60,7 @@ This [dataset](https://jack-kelly.com/data/) records the power demand from five 
 
 # Repositories
 
-* [Open Climate Fix](https://github.com/openclimatefix): Mostly developed by Jack Kelly
+## [Open Climate Fix](https://github.com/openclimatefix): Mostly developed by Jack Kelly
 
 # Packages 
 
