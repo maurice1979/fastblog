@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://maurice1979.github.io/fastblog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maurice1979.github.io/fastblog/" rel="alternate" type="text/html" /><updated>2020-03-29T05:37:53-05:00</updated><id>https://maurice1979.github.io/fastblog/feed.xml</id><title type="html">fastpages</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">Energy Related Data Sources</title><link href="https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post.html" rel="alternate" type="text/html" title="Energy Related Data Sources" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post</id><content type="html" xml:base="https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post.html">&lt;h1 id=&quot;energy-data-sources&quot;&gt;Energy Data Sources&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://maurice1979.github.io/fastblog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maurice1979.github.io/fastblog/" rel="alternate" type="text/html" /><updated>2020-03-29T05:46:49-05:00</updated><id>https://maurice1979.github.io/fastblog/feed.xml</id><title type="html">fastpages</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">Energy Related Data Sources</title><link href="https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post.html" rel="alternate" type="text/html" title="Energy Related Data Sources" /><published>2020-03-28T00:00:00-05:00</published><updated>2020-03-28T00:00:00-05:00</updated><id>https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post</id><content type="html" xml:base="https://maurice1979.github.io/fastblog/markdown/2020/03/28/interesting-renewable-energy-links-post.html">&lt;h1 id=&quot;energy-data-sources&quot;&gt;Energy Data Sources&lt;/h1&gt;
 
 &lt;p&gt;In this entry information related with Energy Markets, Flows, etc is gathered.&lt;/p&gt;
 
@@ -8,7 +8,7 @@
 
 &lt;p&gt;They have a &lt;a href=&quot;https://www.ree.es/es/apidatos#&quot;&gt;powerful API&lt;/a&gt; wich can be used to retrieve a lot of information about Spanish electricity system operation and transport.&lt;/p&gt;
 
-&lt;p&gt;###&lt;a href=&quot;https://www.entsoe.eu&quot;&gt;ENTSO-E&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;entso-e&quot;&gt;&lt;a href=&quot;https://www.entsoe.eu&quot;&gt;ENTSO-E&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;ENTSO-E, the European Network of Transmission System Operators for Electricity, represents 42 electricity transmission system operators (TSOs) from 35 countries across Europe. ENTSO-E was established and given legal mandates by the EU’s Third Legislative Package for the Internal Energy Market in 2009, which aims at further liberalising the gas and electricity markets in the EU.&lt;/p&gt;
 
@@ -57,9 +57,7 @@
 
 &lt;h1 id=&quot;repositories&quot;&gt;Repositories&lt;/h1&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/openclimatefix&quot;&gt;Open Climate Fix&lt;/a&gt;: Mostly developed by Jack Kelly&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;open-climate-fix-mostly-developed-by-jack-kelly&quot;&gt;&lt;a href=&quot;https://github.com/openclimatefix&quot;&gt;Open Climate Fix&lt;/a&gt;: Mostly developed by Jack Kelly&lt;/h2&gt;
 
 &lt;h1 id=&quot;packages&quot;&gt;Packages&lt;/h1&gt;
 
